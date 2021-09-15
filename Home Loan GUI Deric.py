@@ -36,7 +36,7 @@ def info():
                         font=("Courier New", 15, "bold"), justify="left")
     canvas2.create_text(330, 310, text="4. Enter your Period for this Loan in year (number) !",
                         font=("Courier New", 15, "bold"), justify="left")
-    canvas2.create_text(373, 370, text="5. Statement of Monthly Instalment Payment is shown in"
+    canvas2.create_text(366, 370, text="5. Statement of Monthly Instalment Payment is shown in"
                         " the \nScrolledtext .", font=("Courier New", 15, "bold"),
                         justify="left")
     canvas2.create_text(425, 440, text="6. Click the Pie Chart button and it will show you the "
